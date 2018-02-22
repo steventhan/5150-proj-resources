@@ -13,7 +13,7 @@ https://blog.openai.com/dota-2/
 I love MOBA games and played a ton of games in the past (mainly Dota 1 and League of Legends). I no longer play, but still watch competitive LoL on weekends.
 I feel like there are a lot of topics learned in class can be put into making a MOBA bot due to the highly strategic nature of the genre. Also, I wanted to learn to play Dota 2 for a long time, might as well use this opportunity.
 
-Apparently it's not feasible to make a smart enough bot that can compete against pro, but I'd like to accomplish the followingtasks:
+Apparently it's not feasible to make a smart enough bot that can compete against pro, but I'd like to accomplish the following tasks:
 
 * Farming
 * Animation cancelling
